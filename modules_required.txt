@@ -1,0 +1,4 @@
+pafy==0.5.5
+Pillow==8.1.2
+ttkthemes==3.2.2
+youtube-dl==2021.3.14
